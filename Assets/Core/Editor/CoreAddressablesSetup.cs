@@ -10,6 +10,7 @@ namespace Core.Editor
     {
         public static void SetupCoreAddressables()
         {
+            return;
             var settings = AddressableAssetSettingsDefaultObject.Settings;
             if (settings == null) return;
 
