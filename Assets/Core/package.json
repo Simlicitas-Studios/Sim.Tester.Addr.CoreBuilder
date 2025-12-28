@@ -3,7 +3,7 @@
     "displayName": "Sim.Tester.Addr.Core",
     "author": { "name": "Simplicitas Studios" },
     "version": "1.0.0",
-    "unity": "6000.0.0",
+    "unity": "6000.0",
     "description": "Addressable Core Library",
     "keywords": [ "Scripting" ],
     "license": "MIT",
