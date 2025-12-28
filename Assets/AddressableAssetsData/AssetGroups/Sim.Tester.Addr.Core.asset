@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Sim.Tester.Addr.Core
+  m_EditorClassIdentifier: Unity.Addressables.Editor::UnityEditor.AddressableAssets.Settings.AddressableAssetGroup
+  m_GroupName: Sim.Tester.Addr.Core
+  m_GUID: a72e7480535603f4fbc6af8936a1c415
+  m_SerializeEntries:
+  - m_GUID: 6e597b8785c7e9c4d97cade0b673a86f
+    m_Address: Assets/Core/Prefabs/CoreEnemy.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c2ff8c47edaaecc4bbf061976ac01f34
+    m_Address: Assets/Core/ScriptableObjects/SampleEnemyStats.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 40b312929485f434fbc97c3ecf82ebd0, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: c349cfe7fc46ca444b5421969ead2cb0, type: 2}
+    - {fileID: 11400000, guid: 8c3dcbfb1f13e364090004610494995e, type: 2}
